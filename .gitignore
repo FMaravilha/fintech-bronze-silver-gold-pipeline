@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Airflow
+airflow/logs/
+airflow/data/
+
+# Environment variables
+.env
+
+# Docker
+*.pid
+
+# OS
+.DS_Store
+Thumbs.db
