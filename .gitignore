@@ -6,6 +6,9 @@ __pycache__/
 airflow/logs/
 airflow/data/
 
+#Data
+data/source/
+
 # Environment variables
 .env
 
